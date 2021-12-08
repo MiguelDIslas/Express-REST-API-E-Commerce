@@ -1,0 +1,21 @@
+{
+  "orderItems": [
+    {
+      "quantity": 1,
+      "product": "610c3eb2560e945198e10bfa"
+    },
+    {
+      "quantity": 1,
+      "product": "61033e6be9da5c5cb0e529cb"
+    }
+  ],
+  "shippingAddress1": "Calle prueba",
+  "shippingAddress2": "prueba",
+  "city": "Chihuahua",
+  "state": "Chihuahua",
+  "zip": "32000",
+  "country": "Mexico",
+  "phone": "6391010170",
+  "user": "610c4a8c38992a13a4e70fb4",
+  "status": "Pending"
+}

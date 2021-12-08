@@ -1,0 +1,12 @@
+{
+        "name": "Miguel",
+        "email": "miguelangelde15@gmail.com",
+        "passwordHash": "12345",
+        "phone": "6391010170",
+        "isAdmin": true,
+        "steet": "Calle prueba",
+        "apartment": "Chihuahua",
+        "zip": "33000",
+        "city": "Delicias",
+        "country": "Mexico"
+}

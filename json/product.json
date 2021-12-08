@@ -1,0 +1,13 @@
+{
+  "name": "Producto 1",
+  "description": "Descripción del producto 1",
+  "richDescription": "Más información del producto 1",
+  "image": "producto1/image.jpg",
+  "brand": "Marca prodcuto 1",
+  "price": 25,
+  "category": "61032796b316aa46e0a2388a",
+  "countInStock": 10,
+  "rating": 5,
+  "numReviews": 22,
+  "isFeatured": true
+}
