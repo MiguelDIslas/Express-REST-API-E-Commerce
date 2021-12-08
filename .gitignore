@@ -3,7 +3,7 @@ node_modules/
 jspm_packages/
 
 #Images
-public/uploads/*
+*.jpeg
 
 #Environment
 .env
